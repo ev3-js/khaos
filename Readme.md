@@ -7,13 +7,13 @@ A Khaos template to start new node.js projects quickly.
 
 Save the template locally with:
 
-    $ khaos install micro-js/khaos micro-js
+    $ khaos install ev3-js/khaos ev3-js
 
 ## Usage
 
 Create a new node.js project with:
 
-    $ khaos micro-js my-project
+    $ khaos ev3-js my-project
 
 ## License
 
